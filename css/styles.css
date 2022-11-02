@@ -23,11 +23,9 @@ font-family: 'Ubuntu', sans-serif;
 
 /* Heading  */
 .big-heading {
-  /* font-family: 'Shadows Into Light', cursive; */
   letter-spacing: .5rem;
   font-size: 2.5rem;
   line-height: 1.5;
-  /* animation: big-heading 1s ease-in-out infinite alternate; */
 }
 
 @-webkit-keyframes big-heading {
@@ -41,11 +39,10 @@ font-family: 'Ubuntu', sans-serif;
 }
 
 .section-heading {
-  color: #a9e4d7;
   font-size: 3rem;
   line-height: 1.5;
-padding-top: 3%;
-  }
+  padding-top: 3%;
+}
 
 /* Section */
 .color-section {
@@ -159,13 +156,12 @@ padding-top: 3%;
 }
 
 .a-footer{
-text-decoration: none;
-color:#a9e4d7;
-padding: 1% 1%;
+  color: #FFF;
+  text-decoration: none;
+  padding: 1% 1%;
 }
 
 .a-footer:hover{
   color: #D5D5D5;
   text-decoration-line: underline;
-  text-decoration-style: wavy;
-  }
+}
